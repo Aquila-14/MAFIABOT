@@ -14,7 +14,6 @@ bs4
 bwb==3.0.0
 cfscrape
 chromedriver_autoinstaller
-coffeehouse>=2.2.5
 cowpy
 cryptg
 colorama>=0.4.3
